@@ -13,6 +13,8 @@
   
 
 - ❓ Ask me about anything related to JavaScript, Data Analytics, Dashboards, and Bobs Burgers   
+
+https://media.giphy.com/media/dfIQG68floQuY/giphy.gif
   
 
 - ⚡ Fun fact: I was born a lefty but mainly use my right hand   
