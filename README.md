@@ -14,8 +14,8 @@
 
 - ❓ Ask me about anything related to JavaScript, Data Analytics, Dashboards, and Bobs Burgers   
 
-![Alt Text](https://media.giphy.com/media/dfIQG68floQuY/giphy.gif)
-###Me when I change the Font size 
+<div align="center">![Alt Text](https://media.giphy.com/media/dfIQG68floQuY/giphy.gif)</div>
+### <div align="center"> Me when I change the Font size </div>
   
 
 - ⚡ Fun fact: I was born a lefty but mainly use my right hand   
