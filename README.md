@@ -1,8 +1,8 @@
-[https://www.canva.com/design/DAE24a0Okjo/view](https://www.canva.com/design/DAE24a0Okjo/-qNZBvC9wZHJkF-pyYc4Cw/edit?utm_content=DAE24a0Okjo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<img width="1201" alt="Screen Shot 2022-08-17 at 9 45 55 PM" src="https://user-images.githubusercontent.com/67666661/185281804-50db592f-1fc9-4a86-b653-ab96d1067906.png">
+
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
 ### <div align="center">I'm Jessica, a Full-Stack developer 👨‍💻 that is learning something new each day🚀</div>  
   
 
