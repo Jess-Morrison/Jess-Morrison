@@ -14,7 +14,7 @@
 
 - ❓ Ask me about anything related to JavaScript, Data Analytics, Dashboards, and Bobs Burgers   
 
-<div align="center">![Alt Text](https://media.giphy.com/media/dfIQG68floQuY/giphy.gif)</div>
+![Alt Text]<div align="center">(https://media.giphy.com/media/dfIQG68floQuY/giphy.gif)</div>
 ### <div align="center"> Me when I change the Font size </div>
   
 
