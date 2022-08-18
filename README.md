@@ -14,8 +14,9 @@
 
 - ❓ Ask me about anything related to JavaScript, Data Analytics, Dashboards, and Bobs Burgers   
 
+<picture>
 <img src="https://media.giphy.com/media/dfIQG68floQuY/giphy.gif" align="center" style="width: 100%" />
-</div>
+</picture>
 
 ### <div align="center"> Me when I change the Font size </div>
   
