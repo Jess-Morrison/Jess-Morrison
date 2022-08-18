@@ -56,7 +56,7 @@
 
 ### DevOps
 <div align="center"> 
-##...Soon
+...Soon :brown raised_hands:
 </div?
 </td></tr></table>  
 
