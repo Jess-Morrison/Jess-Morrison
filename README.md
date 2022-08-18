@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact: I was born a lefty but mainly use my right hand   
 
-<div aling="center">
+<div align="center">
   <img src= "https://media.giphy.com/media/xT0GqvzWqa6Jf9c9hK/giphy.gif"
        </div>
   
