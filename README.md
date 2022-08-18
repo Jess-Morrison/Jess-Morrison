@@ -14,7 +14,7 @@
 
 - ❓ Ask me about anything related to JavaScript, Data Analytics, Dashboards, and Bobs Burgers   
 
-https://media.giphy.com/media/dfIQG68floQuY/giphy.gif
+<iframe src="https://giphy.com/embed/dfIQG68floQuY" width="480" height="273" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/challenger-bobs-burgers-louise-belcher-dfIQG68floQuY">via GIPHY</a></p>
   
 
 - ⚡ Fun fact: I was born a lefty but mainly use my right hand   
