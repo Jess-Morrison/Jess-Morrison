@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning React | Python(for Backend Dev) | Django | Creating Databases using SQL   
   
 
-- ❓ Ask me about anything related to JavaScript, Data Analytics, Dashboards, and Bobs Burgers   
+- ❓ Ask me about anything related to Front End Tech Stack, Data Analytics, Dashboards, and Bobs Burgers   
 
 <div align="center">
 <img src="https://media.giphy.com/media/dfIQG68floQuY/giphy.gif" />
