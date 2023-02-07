@@ -4,7 +4,7 @@
 </div>  
   
 ### <div align="center">I'm Jessica, a Full-Stack developer 👨‍💻 that is learning something new each day🚀</div>  
-![image](https://user-images.githubusercontent.com/67666661/217124028-e0d62a12-250c-4083-b8a2-4a9d00e9e7cb.png)
+<div align="center">![image](https://user-images.githubusercontent.com/67666661/217124028-e0d62a12-250c-4083-b8a2-4a9d00e9e7cb.png)
   
 
 - 🔭 I’m currently working on My Front End Portion of my cohort  
