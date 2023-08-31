@@ -7,10 +7,10 @@
 
   
 
-- 🔭 I’m currently working on My Front End Portion of my cohort  
+- 🔭 I’m currently a Junior Software Engineer  
   
 
-- 🌱 I’m currently learning React | Python(for Backend Dev) | Django | Creating Databases using SQL   
+- 🌱 I’m currently trying to refine these set of skills React | Python(for Backend Dev) | Django |  SQL   
   
 
 - ❓ Ask me about anything related to Front End Tech Stack, Data Analytics, Dashboards, and Bobs Burgers   
